@@ -1,4 +1,3 @@
-import numpy as np
 class Array3d:
     def __init__(self, dim0, dim1, dim2):
         self.dim0 = dim0   #ширина
